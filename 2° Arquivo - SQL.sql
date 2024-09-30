@@ -1,3 +1,4 @@
+-- language: sql
 -- Filtros no SQL (WHERE)
 -- 1. Mostrar apenas os produtos com preços iguais ou maiores a R$1.800,00:
 select * from produtos
