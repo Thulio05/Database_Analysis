@@ -1,3 +1,4 @@
+-- language: sql
 -- Exercício 1: Selecionando todas as linhas e colunas da:
 -- Tabela de Categorias:
 SELECT * FROM categorias;
