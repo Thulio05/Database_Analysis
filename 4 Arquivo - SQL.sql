@@ -1,3 +1,4 @@
+-- language: sql
 select * from clientes;
 
 SELECT
