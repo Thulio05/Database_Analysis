@@ -1,3 +1,4 @@
+-- language: sql
 -- Estrutura para inner Join (Juntar e relacionar duas tabelas), Chave Primária e Estrangeira:
 
 -- SELECT
