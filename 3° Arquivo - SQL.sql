@@ -1,3 +1,4 @@
+-- language: sql
 select * from clientes;
 
 -- 1. Mostrar a quantidade de nomes na tabela:
